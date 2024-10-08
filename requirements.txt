@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.35
+streamlit==1.39.0

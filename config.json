@@ -1,0 +1,4 @@
+{
+    "DATABASE": "sqlite:///test.db",
+    "SALT": "GOOD SALT"
+}
